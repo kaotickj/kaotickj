@@ -24,8 +24,6 @@ HIPPA, PCIDSS, ISO27001 auditing. Penetration testing. Computer forensic investi
 
 Strengthen your online visibility with responsive, mobile-optimized websites that customers and search engines love. I build stunning custom websites - optimized for local search - so that customers can easily find your business in online searches.
 
-Site was last updated: Wednesday Nov 23, 2022
-
 *   [Articles](https://kdgwebsolutions.com/digital-marketing-self-help-articles)
 *   [Portfolio](https://kdgwebsolutions.com/portfolio)
 *   [Hire me](https://kdgwebsolutions.com/hire-a-professional-web-designer-athens-tn)
