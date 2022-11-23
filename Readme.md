@@ -1,32 +1,11 @@
-[KDG Web Solutions](/)Toggle navigation
-*   [Home](/)
-*   [Portfolio](/portfolio)
-*   [About Me](/about-me)
-*   [Hire Me](/hire-a-professional-web-designer-athens-tn)
-*   [FAQ](/frequently-asked-questions)
-
-KDG Web Solutions
-=================
-
 Hello! My name is ****Johnny Watts****. I am a **Professional PHP** ******Website Designer****** in **Athens, Tennessee**
 -------------------------------------------------------------------------------------------------------------------------
 
 I have the skills and experience to create lightning fast, beautiful, responsive **websites** that visitors and search engines love!
 
-[Hire me](/hire-a-professional-web-designer-athens-tn)
+[Hire me](https://kdgwebsolutions.com/hire-a-professional-web-designer-athens-tn)
 
-Recent Work Samples:
---------------------
-
-[![A screenshot of the website designed by Johnny Watts for Hagen's Auto Repair](assets/img/tech/hagens-auto-repair-site.png)](https://hagensautorepair.net/)
-
-[![A screenshot of the website designed by Johnny Watts for B & N Diner](assets/img/tech/b-and-n-diner-site.png)](https://greatlocalfoods.com/bndiner/)
-
-[![A screenshot of the website designed by Johnny Watts for Skooter's Family Restaurant](assets/img/tech/skooters-family-restaurant-site.png)](./skooters/)
-
-### Like what you see?
-
-[See More](/portfolio)
+[Portfolio](https://kdgwebsolutions.com/portfolio)
 
 Special Skills
 --------------
