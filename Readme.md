@@ -30,10 +30,9 @@ Strengthen your online visibility with responsive, mobile-optimized websites tha
 
 Site was last updated: Wednesday Nov 23, 2022
 
-*   [Articles](./digital-marketing-self-help-articles)
-*   [Search Site](./search)
-*   [Hire Me](./hire-web-designer-athens-tn)
-*   [FAQ](./frequently-asked-questions)
-*   [Privacy Policy](./privacy-policy)
-
-[](https://www.linkedin.com/in/johnny-watts-695751125/)[](https://github.com/kaotickj)
+*   [Articles](https://kdgwebsolutions.com/digital-marketing-self-help-articles)
+*   [Search Site](https://kdgwebsolutions.com/search)
+*   [Hire Me](https://kdgwebsolutions.com/hire-web-designer-athens-tn)
+*   [FAQ](https://kdgwebsolutions.com/frequently-asked-questions)
+*   [Privacy Policy](https://kdgwebsolutions.com/privacy-policy)
+*   [LinkedIn](https://www.linkedin.com/in/johnny-watts-695751125/)
