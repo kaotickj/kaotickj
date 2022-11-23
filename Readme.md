@@ -31,7 +31,6 @@ Strengthen your online visibility with responsive, mobile-optimized websites tha
 Site was last updated: Wednesday Nov 23, 2022
 
 *   [Articles](https://kdgwebsolutions.com/digital-marketing-self-help-articles)
-*   [Search Site](https://kdgwebsolutions.com/search)
 *   [Hire Me](https://kdgwebsolutions.com/hire-web-designer-athens-tn)
 *   [FAQ](https://kdgwebsolutions.com/frequently-asked-questions)
 *   [Privacy Policy](https://kdgwebsolutions.com/privacy-policy)
