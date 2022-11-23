@@ -1,11 +1,7 @@
-Hello! My name is ****Johnny Watts****. I am a **Professional PHP** ******Website Designer****** in **Athens, Tennessee**
+Hello! My name is ****Johnny Watts****. I am a **Professional PHP** ******Website Designer****** and Cyber Security Consultant in **Athens, Tennessee**
 -------------------------------------------------------------------------------------------------------------------------
 
-I have the skills and experience to create lightning fast, beautiful, responsive **websites** that visitors and search engines love!
-
-[Hire me](https://kdgwebsolutions.com/hire-a-professional-web-designer-athens-tn)
-
-[Portfolio](https://kdgwebsolutions.com/portfolio)
+I have the skills and experience to create lightning fast, beautiful, responsive **websites** that are ultra secure, and that visitors and search engines love!
 
 Special Skills
 --------------
@@ -31,7 +27,8 @@ Strengthen your online visibility with responsive, mobile-optimized websites tha
 Site was last updated: Wednesday Nov 23, 2022
 
 *   [Articles](https://kdgwebsolutions.com/digital-marketing-self-help-articles)
-*   [Hire Me](https://kdgwebsolutions.com/hire-web-designer-athens-tn)
+*   [Portfolio](https://kdgwebsolutions.com/portfolio)
+*   [Hire me](https://kdgwebsolutions.com/hire-a-professional-web-designer-athens-tn)
 *   [FAQ](https://kdgwebsolutions.com/frequently-asked-questions)
 *   [Privacy Policy](https://kdgwebsolutions.com/privacy-policy)
 *   [LinkedIn](https://www.linkedin.com/in/johnny-watts-695751125/)
