@@ -1,28 +1,24 @@
-Hello! My name is ****Johnny Watts****. I am a **Professional PHP** ******Website Designer****** and Cyber Security Consultant in **Athens, Tennessee**
+![Logo](https://kdgwebsolutions.com/assets/img/johnny-watts-web-developer-athens-tn-portfolio.png)
+Hello! My name is Johnny Watts. I am a Professional PHP Website Developer and Cyber Security Consultant in Athens, Tennessee.
 -------------------------------------------------------------------------------------------------------------------------
 
-I have the skills and experience to create lightning fast, beautiful, responsive **websites** that are ultra secure, and that visitors and search engines love!
+I have the skills and experience to create lightning fast, beautiful, responsive websites that are ultra secure, and that visitors and search engines love!
 
 Special Skills
 --------------
 
-### **Website Design**
+### **Website/Web Application Development**
 
-I specialize in **custom coded PHP Website Design** using **HTML5 and CSS3**. With more than **30 Years of Experience**, I know what it takes to **Dominate the Digital Market**.
+I specialize in custom coded PHP Website Design using HTML5 and CSS3. With more than 30 Years of Experience, I know what it takes to Dominate the Digital Market.
 
 ### **Search Engine Optimization**
 
-I am highly skilled at developing **Keyword Strategies** designed to **Maximize Search Engine Results** ranking through a **Complete Keyword and Local Competitor Analysis**.
+I am highly skilled at developing Keyword Strategies designed to Maximize Search Engine Results ranking through a Complete Keyword and Local Competitor Analysis.
 
 ### **Cybersecurity Consulting**
 
 HIPPA, PCIDSS, ISO27001 auditing. Penetration testing. Computer forensic investigation. Risk Management. IT Security Training. Incident response. Malware analysis.
 
-  
-
-### **Dominate Local Search**
-
-Strengthen your online visibility with responsive, mobile-optimized websites that customers and search engines love. I build stunning custom websites - optimized for local search - so that customers can easily find your business in online searches.
 
 *   [Articles](https://kdgwebsolutions.com/digital-marketing-self-help-articles)
 *   [Portfolio](https://kdgwebsolutions.com/portfolio)
