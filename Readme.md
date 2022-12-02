@@ -30,5 +30,6 @@ HIPPA, PCIDSS, ISO27001 auditing. Penetration testing. Computer forensic investi
 *   [Portfolio](https://kdgwebsolutions.com/portfolio)
 
 ##### **Social** #####
+_Follow me for recent Cybersecurity News and advance notice of upcoming software releases._  
 *   [LinkedIn](https://www.linkedin.com/in/johnny-watts-695751125/)
 *   [RSS Feed](https://kdgwebsolutions.com/feed.xml)
