@@ -1,4 +1,5 @@
 ![Logo](https://kdgwebsolutions.com/assets/img/johnny-watts-web-developer-athens-tn-portfolio.png)
+
 Hello! My name is Johnny Watts. I am a Professional PHP Website Developer and Cyber Security Consultant in Southeast Tennessee. I began my life of coding around 1984 writing text based adveture games in BASIC on my TRS 80 and later my Commodore 64. It's been a never ending learning experience ever since.    
 -------------------------------------------------------------------------------------------------------------------------
 
