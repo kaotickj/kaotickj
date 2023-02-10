@@ -21,7 +21,7 @@ I am highly skilled at developing Keyword Strategies designed to Maximize Search
 
 ### **Cybersecurity Consulting**
 
-HIPPA, PCIDSS, ISO27001 auditing. Penetration testing. Computer forensic investigation. Risk Management. IT Security Training. Incident response. Malware analysis.
+HIPPA, PCIDSS, ISO27001 auditing. Penetration testing. Computer forensic investigation. Risk Management. IT Security Training. Incident response. Malware analysis. Expert Witness in Cyber Security/Computer Forensics Criminal Defense cases.  
 
 ##### **Links** #####
 *   [About Me](https://kdgwebsolutions.com/about-me)
