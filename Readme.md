@@ -32,4 +32,5 @@ HIPPA, PCIDSS, ISO27001 auditing. Penetration testing. Computer forensic investi
 ##### **Social** #####
 *   [Hack the Box](https://app.hackthebox.com/profile/476578)
 *   [LinkedIn](https://www.linkedin.com/in/johnny-watts-695751125/)
+*   [TryHackMe](https://tryhackme.com/p/kaotickj)
 *   [RSS Feed](https://kdgwebsolutions.com/feed.xml)
