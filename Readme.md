@@ -19,14 +19,13 @@ I am highly skilled at developing Keyword Strategies designed to Maximize Search
 HIPPA, PCIDSS, ISO27001 auditing. Penetration testing. Computer forensic investigation. Risk Management. IT Security Training. Incident response. Malware analysis. Expert Witness in Cyber Security/Computer Forensics Criminal Defense cases.  
 
 ### **PUBLICATIONS**: ###
-##### **Books** #####
-I am the author of the following books:
+I am the author of the following:
 *   [_Red Team Manual Linux Systems: A Guide for New Team Members (PDF)_](https://kdgwebsolutions.com/Red-Team-Manual-Linux-Systems-A-Guide-for-New-Team-Members.pdf)
 *   [_Red Team Manual Linux Systems: A Guide for New Team Members 2nd Edition (EPUB)_](https://kdgwebsolutions.com/Red-Team-Manual-Linux-Systems-A-Guide-for-New-Team-Members2nd-ed.epub)
 *   [_How to Dominate Local Search: The All in One Digital Marketing Guide for Small Business Owners_](https://kdgwebsolutions.com/How-to-Dominate-Local-Search.pdf)
 *   [_How to Optimize a Website for Search Engine Indexing_](https://kdgwebsolutions.com/how-to-optimize-a-website-for-search-engine-indexing.pdf)
 
-##### **Links** #####
+#### **Links** ####
 *   [About Me](https://kdgwebsolutions.com/about-me)
 *   [FAQ](https://kdgwebsolutions.com/frequently-asked-questions)
 *   [Hire me](https://kdgwebsolutions.com/hire-a-professional-web-designer-athens-tn)
@@ -34,7 +33,7 @@ I am the author of the following books:
 *   [_Digital Marketing Self Help Articles_](https://kdgwebsolutions.com/digital-marketing-self-help-articles)
 *   [_What are Business Listings and why do They Matter?_](https://kdgwebsolutions.com/what-are-business-listings-and-why-do-they-matter)
 
-###### **Social** ######
+#### **Social** ####
 *   [Hack the Box](https://app.hackthebox.com/profile/476578)
 *   [LinkedIn](https://www.linkedin.com/in/johnny-watts-695751125/)
 *   [TryHackMe](https://tryhackme.com/p/kaotickj)
