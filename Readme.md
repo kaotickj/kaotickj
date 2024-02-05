@@ -33,7 +33,7 @@ I am the author of the following:
 *   [Portfolio](https://kdgwebsolutions.com/portfolio)
 *   [_Digital Marketing Self Help Articles_](https://kdgwebsolutions.com/digital-marketing-self-help-articles)
 *   [_What are Business Listings and why do They Matter?_](https://kdgwebsolutions.com/what-are-business-listings-and-why-do-they-matter)
-
+*   [_Kaos Kounty RP Discord Channel_](https://discord.gg/sRraDxN5)
 #### **Social** ####
 *   [Hack the Box](https://app.hackthebox.com/profile/476578)
 *   [LinkedIn](https://www.linkedin.com/in/johnny-watts-695751125/)
