@@ -39,3 +39,5 @@ I am the author of the following:
 *   [LinkedIn](https://www.linkedin.com/in/johnny-watts-695751125/)
 *   [TryHackMe](https://tryhackme.com/p/kaotickj)
 *   [RSS Feed](https://kdgwebsolutions.com/feed.xml)
+
+![THM Badge](https://tryhackme-badges.s3.amazonaws.com/kaotickj.png) ![HTB Badge](https://www.hackthebox.eu/badge/image/476578)
