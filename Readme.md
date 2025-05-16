@@ -8,6 +8,7 @@
 **Date: May 16, 2025**
 
 I, KaotickJ, also known as Kaotick Jay in professional cybersecurity circles and DJ Kaotick Jay in music and artistic communities, am making this statement to clearly define the boundaries of my personal brand, online identity, and professional representation.
+
 ✅ Authorized Names / Handles
 
 The following identifiers are official and used by me across various domains, including cybersecurity, digital publishing, red team engagements, musical forums, and professional networking:
@@ -19,6 +20,7 @@ The following identifiers are official and used by me across various domains, in
     DJ Kaotick Jay (used in music and creative arts communities)
 
 These aliases may appear on content I have authored, music I have produced, social platforms I use, or professional accounts I maintain. All uses are within my full authorization.
+
 ❌ Unauthorized and Impersonated Variants
 
 Any name or handle beginning with the string:
@@ -38,6 +40,7 @@ Examples include (but are not limited to):
     Any similar spelling variation attempting to resemble KaotickJ or DJ Kaotick Jay
 
 If you encounter such names misrepresenting themselves as me, I ask that you report them immediately to the platform in question. Impersonation of a cybersecurity professional or DJ with a recognized digital and authorial footprint can have legal ramifications, especially if misleading, defamatory, or abusive behavior is involved.
+
 📢 Public & Legal Use
 
 This statement may be used:
