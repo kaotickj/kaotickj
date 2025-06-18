@@ -13,9 +13,9 @@ I, KaotickJ, also known as Kaotick Jay in professional cybersecurity circles and
 
 The following identifiers are official and used by me across various domains, including cybersecurity, digital publishing, red team engagements, musical forums, and professional networking:
 
-    KaotickJ (preferred professional alias)
+    KaotickJ (preferred short username/screenname)
     
-    Kaotick Jay (used for authorship and public engagements)
+    Kaotick Jay (preferred professional alias used for authorship and public engagements)
     
     DJ Kaotick Jay (used in music and creative arts communities)
 
