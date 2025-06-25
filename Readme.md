@@ -1,7 +1,7 @@
 ![Logo](https://kdgwebsolutions.com/assets/img/johnny-watts-web-developer-athens-tn-portfolio.png)
 
 <details>
-<summary>🔒 Identity Clarification and Authorized Use Statement</summary>
+<summary>🔒 Identity Clarification and Authorized Use Statement (click to expand)</summary>
 
 ## Identity Clarification and Authorized Use Statement  
 **Issued by: Johnny Watts (aka. "Kaotick Jay", "kaotickj", "DJ Kaotick Jay")**  
