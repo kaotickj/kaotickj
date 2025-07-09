@@ -82,8 +82,7 @@ HIPPA, PCIDSS, ISO27001 auditing. Penetration testing. Computer forensic investi
 ### **PUBLICATIONS**: ###
 I am the author of the following:
 *   [_Protecting Yourself from Remote Access Scams (PDF)_](https://kdgwebsolutions.com/Protecting-Yourself-from-Remote-Access-Scams.pdf) 
-*   [_Red Team Manual Linux Systems: A Guide for New Team Members (PDF)_](https://kdgwebsolutions.com/Red-Team-Manual-Linux-Systems-A-Guide-for-New-Team-Members.pdf)
-*   [_Red Team Manual Linux Systems: A Guide for New Team Members 2nd Edition (EPUB)_](https://kdgwebsolutions.com/Red-Team-Manual-Linux-Systems-A-Guide-for-New-Team-Members2nd-ed.epub)
+*   [_Red Team Manual Linux Systems: A Guide for New Team Members (PDF)_](https://kdgwebsolutions.com/Red-Team-Manual-Linux-Systems.pdf)
 *   [_How to Dominate Local Search: The All in One Digital Marketing Guide for Small Business Owners_](https://kdgwebsolutions.com/How-to-Dominate-Local-Search.pdf)
 *   [_How to Optimize a Website for Search Engine Indexing_](https://kdgwebsolutions.com/how-to-optimize-a-website-for-search-engine-indexing.pdf)
 
