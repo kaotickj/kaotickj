@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="aR9BbCsmOOSQCP2YSwh3NePvzAZd58eo-FDWTlRgW-4" />
+
 ![Logo](https://kdgwebsolutions.com/assets/img/johnny-watts-web-developer-athens-tn-portfolio.png)
 
 <details>
