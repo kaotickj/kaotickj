@@ -82,8 +82,8 @@ HIPPA, PCIDSS, ISO27001 auditing. Penetration testing. Computer forensic investi
 ### **PUBLICATIONS**: ###
 I am the author of the following:
 *   [_Online Anonymity: Privacy, OPSEC, and the Art of Being Invisible (Paperback)_](https://www.amazon.com/dp/B0FQRBYRMZ) 
+*   [_Red Team Manual: Linux Systems_(Paperback) ]([https://kdgwebsolutions.com/Red-Team-Manual-Linux-Systems.pdf](https://www.amazon.com/Red-Team-Manual-Linux-Systems/dp/B0FR2BPKN5))
 *   [_Protecting Yourself from Remote Access Scams (PDF)_](https://kdgwebsolutions.com/Protecting-Yourself-from-Remote-Access-Scams.pdf) 
-*   [_Red Team Manual: Linux Systems_(PDF) ](https://kdgwebsolutions.com/Red-Team-Manual-Linux-Systems.pdf)
 *   [_Kaotick Jay's Guide to Securing a Linux Server_(PDF) ](https://kdgwebsolutions.com/Kaotick-Jays-Guide-to-Securing-a-Linux-Server.pdf)
 *   [_How to Dominate Local Search: The All in One Digital Marketing Guide for Small Business Owners_(PDF) ](https://kdgwebsolutions.com/How-to-Dominate-Local-Search.pdf)
 *   [_How to Optimize a Website for Search Engine Indexing (PDF)_](https://kdgwebsolutions.com/how-to-optimize-a-website-for-search-engine-indexing.pdf)
