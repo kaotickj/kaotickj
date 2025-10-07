@@ -100,7 +100,7 @@ I am the author of the following:
 #### **Social** ####
 *   [Hack the Box](https://app.hackthebox.com/profile/476578)
 *   [LinkedIn](https://www.linkedin.com/in/johnny-watts-695751125/)
-*   [TryHackMe](https://tryhackme.com/p/kaotickj)
+*   [TryHackMe](https://tryhackme.com/p/KaotickJay)
 *   [RSS Feed](https://kdgwebsolutions.com/feed.xml)
 
 ![THM Badge](https://tryhackme-badges.s3.amazonaws.com/kaotickj.png)
