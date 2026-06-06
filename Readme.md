@@ -7,7 +7,7 @@
 **Issued by: Johnny Watts (aka. "Kaotick Jay", "kaotickj", "DJ Kaotick Jay")**  
 **Date: May 16, 2025**
 
-I, KaotickJ, also known as Kaotick Jay in professional cybersecurity circles and DJ Kaotick Jay in music and artistic communities, am making this statement to clearly define the boundaries of my personal brand, online identity, and professional representation.
+I, Johnny Watts, also known as Kaotick Jay in professional cybersecurity circles and DJ Kaotick Jay in music and artistic communities, am making this statement to clearly define the boundaries of my personal brand, online identity, and professional representation.
 
 ✅ Authorized Names / Handles
 
@@ -61,23 +61,26 @@ Cybersecurity Professional | Red Team Expert | Author | DJ Kaotick Jay
 
 </details>
 
-Hello! My name is Johnny Watts. I am a Professional PHP Website Developer and Cyber Security Consultant in Southeast Tennessee. I began my life of coding around 1982 writing text based adventure games in BASIC on my TRS 80 and later my Commodore 64. I continuously strive to learn and grow in the ever-evolving fields of web development and cybersecurity.    
+Hello! My name is Johnny Watts, though many people in the cybersecurity community know me as "Kaotick Jay." I am a cybersecurity professional, red team leader, and author based in Southeast Tennessee.
 
-I've been involved in the Cyber Security and Web Development industries since the Internet's Infancy with a career spanning more than 30 years. I help businesses enhance their online presence and security by creating fast, responsive websites that are loved by visitors and search engines alike.
+My interest in technology began in the early 1980s, writing text based adventure games in BASIC on a TRS-80 and later a Commodore 64. That curiosity grew into a career spanning more than three decades in cybersecurity, software development, and web technologies. Throughout that time, I have remained committed to continuous learning and adapting to an industry that never stands still.
 
-Special Skills
---------------
+Since the early days of the Internet, I have helped organizations strengthen both their online presence and their security posture. My work combines technical expertise with practical business solutions, whether developing custom web applications, improving search visibility, conducting security assessments, or investigating security incidents.
 
-### **Website/Web Application Development**
+### Special Skills
+---
 
-I specialize in custom coded PHP Website Design using HTML5 and CSS3. My battery of skills includes more than a dozen coding languages, giving me a broad flexibility and a solid foundation for adapting to new and evolving web development technologies.  
+#### Cybersecurity Consulting
 
-### **Search Engine Optimization**
+* HIPAA, PCI DSS, and ISO 27001 Auditing
+* Penetration Testing and Red Team Operations
+* Computer Forensics and Incident Response
+* Risk Management and Security Assessments
+* Security Awareness and Technical Training
+* Malware Analysis
+* Expert Witness Services for Cybersecurity and Computer Forensics Cases (Defense only)
 
-I am highly skilled at developing Keyword Strategies designed to Maximize Search Engine Results ranking through a Complete Keyword and Local Competitor Analysis and then implementing those strategies to both onsite and offsite SEO. 
-### **Cybersecurity Consulting**
-
-HIPPA, PCIDSS, ISO27001 auditing. Penetration testing. Computer forensic investigation. Risk Management. IT Security Training. Incident response. Malware analysis. Expert Witness in Cyber Security/Computer Forensics Criminal Defense cases.  
+My goal is simple: help organizations build stronger, more secure systems while leveraging technology to achieve their business objectives.
 
 ### **PUBLICATIONS**: ###
 I am the author of the following:
