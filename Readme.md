@@ -105,5 +105,5 @@ I am the author of the following:
 *   [Audius](https://audius.co/kaotickj)
 *   [RSS Feed](https://kdgwebsolutions.com/feed.xml)
 
-![THM Badge](https://tryhackme-badges.s3.amazonaws.com/kaotickj.png)
+![THM Badge](https://zerovectorcyberdefense.com/assets/img/thm-banner.png)
 
