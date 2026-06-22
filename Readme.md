@@ -56,7 +56,7 @@ This statement may be used:
 For verification or inquiries regarding the authenticity of any account or publication bearing my name, I can be contacted through verified channels upon request.
 Signed,
 
-Johnnys Watts, aka, "Kaotick Jay", "kaotickj", "DJ Kaotick Jay"
+Johnny Watts, aka, "Kaotick Jay", "kaotickj", "DJ Kaotick Jay"
 Cybersecurity Professional | Red Team Expert | Author | DJ Kaotick Jay
 
 </details>
@@ -91,6 +91,7 @@ I am the author of the following:
 *   [_Kaotick Jay's Guide to Securing a Linux Server_(PDF) ](https://kdgwebsolutions.com/Kaotick-Jays-Guide-to-Securing-a-Linux-Server.pdf)
 *   [_How to Optimize a Website for Search Engine Indexing (PDF)_](https://kdgwebsolutions.com/how-to-optimize-a-website-for-search-engine-indexing.pdf)
 *   [_Adapting the Moscow Rules for Cybersecurity_](https://www.patreon.com/posts/131833455/)
+*   Currently Working On: *Cybersecurity Operations and Tradecraft: Advanced Tactics for Modern Threats* (Working title)
 
 #### **Links** ####
 *   [About Me](https://kdgwebsolutions.com/about-me)
