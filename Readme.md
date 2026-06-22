@@ -98,6 +98,11 @@ I am the author of the following:
 *   [Hack the Box](https://app.hackthebox.com/profile/476578)
 *   [LinkedIn](https://www.linkedin.com/in/johnny-watts-695751125/)
 *   [TryHackMe](https://tryhackme.com/p/KaotickJay)
+*   [Spotify](https://open.spotify.com/user/31meu4olxqkys5kcwi7xu5ma5ng4)
+*   [Patreon](https://www.patreon.com/c/KaotickJay)
+*   [Rummble](https://rumble.com/user/kaotickjay)
+*   [NexusMods](https://www.nexusmods.com/profile/kaotickj)
+*   [Audius](https://audius.co/kaotickj)
 *   [RSS Feed](https://kdgwebsolutions.com/feed.xml)
 
 ![THM Badge](https://tryhackme-badges.s3.amazonaws.com/kaotickj.png)
