@@ -67,7 +67,7 @@ My interest in technology began in the early 1980s, writing text based adventure
 
 Since the early days of the Internet, I have helped organizations strengthen both their online presence and their security posture. My work combines technical expertise with practical business solutions, whether developing custom web applications, improving search visibility, conducting security assessments, or investigating security incidents.
 
-### Special Skills
+### What I Do
 ---
 
 #### Cybersecurity Consulting
