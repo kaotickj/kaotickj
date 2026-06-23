@@ -103,6 +103,7 @@ I am the author of the following:
 *   [Rumble](https://rumble.com/user/kaotickjay)
 *   [NexusMods](https://www.nexusmods.com/profile/kaotickj)
 *   [Audius](https://audius.co/kaotickj)
+*   [YouTube](https://www.youtube.com/@kaotickj)
 *   [RSS Feed](https://kdgwebsolutions.com/feed.xml)
 
 ![THM Badge](https://zerovectorcyberdefense.com/assets/img/thm-banner.png)
