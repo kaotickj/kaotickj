@@ -106,5 +106,5 @@ I am the author of the following:
 *   [YouTube](https://www.youtube.com/@kaotickj)
 *   [RSS Feed](https://kdgwebsolutions.com/feed.xml)
 
-![THM Badge](https://zerovectorcyberdefense.com/assets/img/thm-banner.png)
+![THM Badge](thm-banner.png)
 
