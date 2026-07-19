@@ -1,4 +1,4 @@
-![Logo](https://kdgwebsolutions.com/kaotick-jay-cover.png)
+![Logo](kaotick-jay-cover.png)
 
 <details>
 <summary>🔒 Identity Clarification and Authorized Use Statement (click to expand)</summary>
