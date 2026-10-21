@@ -41,7 +41,7 @@ I focus on defensible findings, clear reporting, and practical remediation. Secu
 
 Books, guides, and articles I've authored or shared:
 
-- [Online Anonymity: Privacy, OPSEC, and the Art of Being Invisible](https://www.amazon.com/dp/B0FQRBYRMZ)
+- [Online Anonymity: Privacy, OPSEC, and the Art of Being Invisible](https://www.amazon.com/Online-Anonymity-Privacy-OPSEC-Invisible/dp/B0HN7NL91Y)
 - [Red Team Manual: Linux Systems](https://www.amazon.com/Red-Team-Manual-Linux-Systems/dp/B0FR2BPKN5)
 - [How to Dominate Local Search](https://www.amazon.com/dp/B0FRGH64GQ)
 - [Protecting Yourself from Remote Access Scams (PDF)](https://kdgwebsolutions.com/Protecting-Yourself-from-Remote-Access-Scams.pdf)
